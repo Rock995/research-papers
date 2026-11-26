@@ -8,18 +8,6 @@
 
 ## 驾驶世界模型与闭环规划
 
-### [ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement](https://arxiv.org/abs/2611.26615)
-
-**作者**: Yansong Qu, Wesker Zheng, Quanjian Song, Zhiyuan Zhang, Xiao Cao, Shengchuan Zhang, Liujuan Cao
-
-**日期**: 2026-11-19
-
-**链接**: [PDF](https://arxiv.org/pdf/2611.26615) | [项目主页](https://quyans.github.io/ScaleWorld/)
-
-**代码**: 「代码未公开」
-
----
-
 ### [TrajWAM: Trajectory-Conditioned Future Learning for Vision-Language Driving](https://arxiv.org/abs/2611.24192)
 
 **作者**: Xuerui Fang, Gulimila Kezierbieke, Chen Wangxing, Hui Li
@@ -397,6 +385,18 @@
 ---
 
 ## 加速、流式生成与规划算法
+
+### [ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement](https://arxiv.org/abs/2611.26615)
+
+**作者**: Yansong Qu, Wesker Zheng, Quanjian Song, Zhiyuan Zhang, Xiao Cao, Shengchuan Zhang, Liujuan Cao
+
+**日期**: 2026-11-19
+
+**链接**: [PDF](https://arxiv.org/pdf/2611.26615) | [项目主页](https://quyans.github.io/ScaleWorld/)
+
+**代码**: 「代码未公开」
+
+---
 
 ### [LoopedWAM: Looped World Action Models for Elastic Inference](https://arxiv.org/abs/2611.25595)
 
